@@ -1,0 +1,12 @@
+{
+  "name": "Ara Platformer",
+  "short_name": "Ara Platformer",
+  "id": "com.example.platformer",
+  "description": "a new platformer",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
